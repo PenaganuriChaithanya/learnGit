@@ -24,6 +24,7 @@
 </table>
 </div>
 </div>
+<p>This is a PHP file</p>
 <?php
 $firstname=$_POST['firstname'];
 $email=$_POST['email'];
